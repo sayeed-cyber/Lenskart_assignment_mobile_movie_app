@@ -3,6 +3,9 @@
 
 This repository contains a Netflix-style movie app built with Flutter for the Lenskart assignment. The app uses the TMDB API to fetch and display movies, allowing users to browse, search, add to favourites, and manage a watchlist.
 
+
+apk download link https://drive.google.com/file/d/1vbfYPg2jhw5ma3iyrEI37655pdogkeiU/view?usp=share_link
+
 ---
 
 ## 📂 Project Structure & Navigation
