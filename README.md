@@ -190,7 +190,16 @@ Using [TMDB API](https://developers.themoviedb.org/3)
 
 ## Screenshots
 
-(Add screenshots here after running the app)
+
+Below are some screenshots of the app:
+
+<p align="center">
+  <img src="./WhatsApp Image 2026-01-17 at 16.56.54.jpeg" alt="Screenshot 1" width="250" />
+  <img src="./WhatsApp Image 2026-01-17 at 16.56.54 (1).jpeg" alt="Screenshot 2" width="250" />
+  <img src="./WhatsApp Image 2026-01-17 at 16.56.55.jpeg" alt="Screenshot 3" width="250" />
+  <img src="./WhatsApp Image 2026-01-17 at 16.56.56.jpeg" alt="Screenshot 4" width="250" />
+  <img src="./WhatsApp Image 2026-01-17 at 16.56.56 (1).jpeg" alt="Screenshot 5" width="250" />
+</p>
 
 ## License
 
