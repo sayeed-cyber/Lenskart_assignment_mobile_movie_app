@@ -1,0 +1,56 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android related
+**/android/.gradle/
+**/android/local.properties
+**/android/.idea/
+**/android/.settings/
+**/android/.externalNativeBuild/
+**/android/captures/
+**/android/gradle/
+**/android/app/build/
+**/android/build/
+**/android/.DS_Store
+
+# iOS related (if applicable)
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/
+**/ios/Runner.xcworkspace/
+**/ios/build/
+**/ios/.DS_Store
+
+# VS Code related
+.vscode/
+
+# macOS related
+.DS_Store
+
+# Misc
+*.iml
+*.log
+.idea/
+*.swp
+*.swo
+
+# Generated files
+**/generated/
+**/outputs/
+**/intermediates/
+**/tmp/
+
+# API keys and sensitive files
+API_KEY_GUIDE.md
+TMDB_API_SETUP.md
+
+# Test outputs
+coverage/
+
+# Other
+*.bak
+*.tmp
